@@ -11,5 +11,5 @@ $  git commit - m 'version inicial'
 $  agregar los comandos utilizados a readme.md 
 $ git commit- m 'agrega solucion primer ejercicio'
 $
-$
+$ modificacion desde github
 $
